@@ -1,4 +1,4 @@
-/*Tugas Nomor 2
+/*Tugas 1 Nomor 2
 By : Arsyi Syarief Aziz
 NIM : H071191003
 */
