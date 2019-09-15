@@ -11,9 +11,7 @@ class Task1Number3 {
 
 		// Untuk menangani input negatif
 		int n = Math.abs(input);
-		int sign = 1;
-		if (n != 0)
-			sign = Math.abs(input) / input;
+		int sign = input < 0 ? -1 : 1;
 
 		// Proses
 		System.out.print("Bilangan ganjil = ");
