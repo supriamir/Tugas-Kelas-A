@@ -34,7 +34,7 @@ class Tugas1No4{
 
     int odd = 5 - even; //Mencari jumlah ganjil dengan mengurangi 5 dengan jumlah genap
     int zero =0;
-    //Mencari jumlah bilangan positif dan nol
+    //Mencari jumlah bilangan negatif dan nol
     if(input1==0){
       zero++;
     }else if((Math.abs(input1) + input1)==0){
