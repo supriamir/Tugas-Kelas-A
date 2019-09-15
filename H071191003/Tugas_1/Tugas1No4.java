@@ -8,53 +8,53 @@ class Tugas1No4{
     Scanner input = new Scanner(System.in);
     System.out.println("Input 5 integer!");
     try{
-    int input1 = input.nextInt();
-    int input2 = input.nextInt();
-    int input3 = input.nextInt();
-    int input4 = input.nextInt();
-    int input5 = input.nextInt();
+    int a = input.nextInt();
+    int b = input.nextInt();
+    int c = input.nextInt();
+    int d = input.nextInt();
+    int e = input.nextInt();
     int even = 0;
     int negative = 0;
     //Mencari jumlah bilangan genap
-    if(input1 % 2 ==0){
+    if(a % 2 ==0){
       even++;
     }
-    if(input2 % 2 ==0){
+    if(b % 2 ==0){
       even++;
     }
-    if(input3 % 2 ==0){
+    if(c % 2 ==0){
       even++;
     }
-    if(input4 % 2 ==0){
+    if(d % 2 ==0){
       even++;
     }
-    if(input5 % 2 ==0){
+    if(e % 2 ==0){
       even++;
     }
 
     int odd = 5 - even; //Mencari jumlah ganjil dengan mengurangi 5 dengan jumlah genap
     int zero =0;
     //Mencari jumlah bilangan negatif dan nol
-    if(input1==0){
+    if(a==0){
       zero++;
-    }else if((Math.abs(input1) + input1)==0){
+    }else if((Math.abs(a) + a)==0){
       negative++;
     }
-    if(input2==0){
+    if(b==0){
       zero++;
-    }else if((Math.abs(input2) + input2)==0){
+    }else if((Math.abs(b) + b)==0){
       negative++;
-    }if(input3==0){
+    }if(c==0){
       zero++;
-    }else if((Math.abs(input3) + input3)==0){
+    }else if((Math.abs(c) + c)==0){
       negative++;
-    }if(input4==0){
+    }if(d==0){
       zero++;
-    }else if((Math.abs(input4) + input4)==0){
+    }else if((Math.abs(d) + d)==0){
       negative++;
-    }if(input5==0){
+    }if(e==0){
       zero++;
-    }else if((Math.abs(input5) + input5)==0){
+    }else if((Math.abs(e) + e)==0){
       negative++;
     }
 
