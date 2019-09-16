@@ -9,7 +9,7 @@ class Tugasloop3 {
 
         for (int i=1; i<=N; i+=2) {
             System.out.print(i + " ");
-            sum += i;
+            sum += 1;
         }
     System.out.println("\nBanyaknya Bilangan Ganjil adalah " + sum);
     input.close();
