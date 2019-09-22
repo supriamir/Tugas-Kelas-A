@@ -21,8 +21,13 @@ class Tugas4{
               }
           }else {
               ganjil++;
-          }
-              
+                if (bilangan>0) {
+                  positif++;
+              }
+              else {
+                  negatif++;
+              }
+          }  
         }
         System.out.println("bilangan genap " + genap);
         System.out.println("bilangan ganjil " + ganjil);
