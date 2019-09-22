@@ -2,6 +2,7 @@
 By : Arsyi Syarief Aziz
 NIM : H071191003
 */
+
 import java.util.Scanner;
 class Tugas2No2{
   public static void main(String[] args) {
