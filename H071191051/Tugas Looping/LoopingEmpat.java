@@ -20,7 +20,7 @@ public class LoopingEmpat{
             }
             if (input < 0){
                 negatif++;
-            }else{
+            }else if (input > 0){
                 positif++;
             }
             if (input == 0){
