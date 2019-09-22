@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoopingLima{
+public class LoopingSatu{
     public static void main(String[] args){
         Scanner userInput = new Scanner(System.in);
         int base = userInput.nextInt();
