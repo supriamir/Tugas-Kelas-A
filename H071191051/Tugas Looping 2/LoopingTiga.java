@@ -1,4 +1,4 @@
-public class LoopingTujuh{
+public class LoopingTiga{
     public static void main(String[] args){
 
         double y;
