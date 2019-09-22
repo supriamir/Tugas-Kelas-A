@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Looping1{
+public class LoopingDua{
     public static void main(String[] args){
         Scanner userInput = new Scanner(System.in);
         int nilaiKhusus = 2002;
