@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Tugasloop1 {
+class Tugasloop11 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
