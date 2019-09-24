@@ -7,9 +7,9 @@ public class Looping4{
         int genap = 0;
         int positif = 0;
         int negatif = 0;
-        System.out.println("Masukan Bilangan");
+        System.out.println("Masukkan Bilangan =");
         
-        for (int A = 0; A < 5; A++){
+        for (int i = 0; i < 5; i++){
             int Bilangan = main.nextInt();
             if (Bilangan % 2 == 0 && Bilangan != 0){
                 genap++;

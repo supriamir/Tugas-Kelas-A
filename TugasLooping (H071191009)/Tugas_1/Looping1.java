@@ -7,9 +7,9 @@ public class Looping1{
         int N = lab.nextInt();
         System.out.printf("Faktor dari %s adalah \n= ",N);
 
-        for (int A = 1; A <= N; A++){
-            if (N % A == 0){
-                System.out.print( A +" ");
+        for (int i = 1; i <= N; i++){
+            if (N % i == 0){
+                System.out.print( i +" ");
             }
             
         }
