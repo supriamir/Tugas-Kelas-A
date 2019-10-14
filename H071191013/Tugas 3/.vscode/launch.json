@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor12",
+            "request": "launch",
+            "mainClass": "Nomor12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MuridBermasalah",
+            "request": "launch",
+            "mainClass": "MuridBermasalah"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetRank",
+            "request": "launch",
+            "mainClass": "GetRank"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConvertChar",
+            "request": "launch",
+            "mainClass": "ConvertChar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComplexTriangle",
+            "request": "launch",
+            "mainClass": "ComplexTriangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TransposeMatrice",
+            "request": "launch",
+            "mainClass": "TransposeMatrice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChooseShoes",
+            "request": "launch",
+            "mainClass": "ChooseShoes"
+        }
+    ]
+}
