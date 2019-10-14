@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Tugas1No12{
+class Tugas3No12{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input jumlah sepatu yang ada di toko : ");

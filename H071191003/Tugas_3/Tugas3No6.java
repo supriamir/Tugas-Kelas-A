@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Tugas1No6{
+class Tugas3No6{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input pajang Segitiga : ");

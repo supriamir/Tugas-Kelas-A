@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Tugas1No7{
+class Tugas3No7{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input jumlah anggota kelompok : ");
