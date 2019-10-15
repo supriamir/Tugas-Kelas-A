@@ -43,6 +43,5 @@ class Ranking
       System.out.println(name1 + " " + rank1);
       System.out.println(name2 + " " + rank2);
       System.out.println(name3 + " " + rank3);
-
   }
 }
