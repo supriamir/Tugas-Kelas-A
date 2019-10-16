@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Looping5",
+            "request": "launch",
+            "mainClass": "Looping5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Looping02",
+            "request": "launch",
+            "mainClass": "Looping02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Looping01",
+            "request": "launch",
+            "mainClass": "Looping01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Looping04",
+            "request": "launch",
+            "mainClass": "Looping04"
+        }
+    ]
+}

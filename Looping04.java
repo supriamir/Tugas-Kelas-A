@@ -6,7 +6,7 @@ class Looping04 {
         int awal = obj.nextInt();
         int batas = obj.nextInt();
         int sum = 0;
-        for (int k = awal; k < batas; k++) {
+        for (int k = 0; k < 10; k++) {
             if (k % 2 == 1) {
                 sum += k;
             }
